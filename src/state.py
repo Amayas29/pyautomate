@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Code à ne pas modifier
-"""
 
 class State : 
     """
@@ -89,7 +86,6 @@ class State :
         res=''.join(str(ord(c)) for c in s)
         return int(res)
     
-    # MJ? on leur fournit ça ???
     @staticmethod 
     def isInitialIn(list) :
         """ list[State] -> bool
@@ -101,7 +97,6 @@ class State :
                 return True 
         return False 
 
-    # MJ? on leur fournit ça ???
     @staticmethod 
     def isFinalIn(list) :
         """ list[State] -> bool
