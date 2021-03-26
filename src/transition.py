@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Code à ne pas modifier
-"""
+
 class Transition :
     """Classe définissant une transition caractérisée par :
         - une étiquette
