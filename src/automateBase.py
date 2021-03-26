@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Code à ne pas modifier
-"""
 
 from transition import *
 from state import *
